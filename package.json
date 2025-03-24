@@ -1,0 +1,16 @@
+{
+  "name": "centivo-challenge",
+  "version": "1.0.0",
+  "description": "Simple API that connects to a MongoDB database and retrieves user data",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
+  "author": "Hugo S Rodriguez Montalvo",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.2",
+    "mongodb": "^6.15.0",
+    "nodemon": "^3.1.9"
+  }
+}
